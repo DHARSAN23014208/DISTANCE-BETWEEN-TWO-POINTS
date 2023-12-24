@@ -3,12 +3,12 @@
 ## AIM:
 To write a python program to find the distance two 2 points
 ## ALGORITHM:
-### Step 1: 
-### Step 2: 
-### Step 3: 
+### Step 1: Import math 
+### Step 2: assign the values of two points
+### Step 3: Substitute the values in the distance formula eig
 Substitute the values in the distance formula  ![formula](/formula.JPG)
-### Step 4: 
-### Step 5: 
+### Step 4:  Print the values
+### Step 5: End the program
 ### PROGRAM:
  ~~~
 #Program to find the distance between two points.
@@ -27,3 +27,4 @@ print("{:.2f}".format(d))
 ![image](https://github.com/DHARSAN23014208/DISTANCE-BETWEEN-TWO-POINTS/assets/149365413/e8c9242b-305b-46c4-a75c-74d518008975)
 
 ### RESULT:
+Thus the distance between two points are successfully found
